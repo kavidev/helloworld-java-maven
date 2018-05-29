@@ -3,6 +3,7 @@ package com.scmgalaxy.mavensample;
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
+import java.io;
 
 /**
  * Unit test for simple App.
