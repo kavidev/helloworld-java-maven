@@ -1,5 +1,5 @@
 This is my fixed for DPLM-5
-For any questions - Please email me at DevOps@RajeshKumar.xyz
+For any questions - Please email me at DevOps@Rajasekhar.xyz
 # ========================NEXUS==============================
 
 <distributionManagement>
